@@ -5,7 +5,7 @@ import { useRecoilValue, useRecoilState} from 'recoil';
 import userState from "../state/user";
 import { tarefasState } from '../state/tarefas';
 
-export const API_URL = 'https://crudcrud.com/api/034c865a2aa244ef9726013fc461073d/tarefas';
+export const API_URL = 'https://crudcrud.com/api/43a67da25f504d4b9c916d7d2973b9b6/tarefas';
 
 //'filtro' como propriedade
 function ListaTarefas({ filtro }) {
